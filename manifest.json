@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "\u00A77WynnLab Resource Pack - 1.0\n\u00A7a(1.16.5, May.01 2021) \u00A78(c) Wynncraft",
+    "name": "\u00A7aWynnLab \u00A7fResource Pack",
+    "uuid": "d32876c9-fbac-40c2-b040-8bf4c18a9b7e",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Resource Pack",
+      "type": "resources",
+      "uuid": "c476b91f-e003-40cd-a7d4-2d8c1c3ff914",
+      "version": [1, 0, 0]
+    }
+  ]
+}
