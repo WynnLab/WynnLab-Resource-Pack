@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "wynn/economy/fishing/rods/rod_wooden"
+    }
+}

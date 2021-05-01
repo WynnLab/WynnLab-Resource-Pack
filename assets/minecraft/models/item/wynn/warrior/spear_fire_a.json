@@ -1,0 +1,145 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"fire3": "wynn/weapons/warrior/fire_tier_a"
+	},
+	"elements": [
+		{
+			"name": "blade",
+			"from": [7.5, 30, 8],
+			"to": [9.5, 31, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.5, 38, 16]},
+			"faces": {
+				"north": {"uv": [4, 0, 2, 1], "texture": "#fire3"},
+				"east": {"uv": [3, 0, 4, 1], "texture": "#fire3"},
+				"south": {"uv": [2, 0, 4, 1], "texture": "#fire3"},
+				"west": {"uv": [2, 0, 3, 1], "texture": "#fire3"},
+				"up": {"uv": [2, 0, 4, 1], "texture": "#fire3"}
+			}
+		},
+		{
+			"name": "blade",
+			"from": [6.5, 28, 8],
+			"to": [10.5, 30, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.5, 36, 16]},
+			"faces": {
+				"north": {"uv": [5, 1, 1, 3], "texture": "#fire3"},
+				"east": {"uv": [4, 1, 5, 3], "texture": "#fire3"},
+				"south": {"uv": [1, 1, 5, 3], "texture": "#fire3"},
+				"west": {"uv": [1, 1, 2, 3], "texture": "#fire3"},
+				"up": {"uv": [1, 1, 5, 2], "texture": "#fire3"}
+			}
+		},
+		{
+			"name": "blade",
+			"from": [5.5, 18, 8],
+			"to": [11.5, 28, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13.5, 26, 16]},
+			"faces": {
+				"north": {"uv": [6, 3, 0, 13], "texture": "#fire3"},
+				"east": {"uv": [5, 3, 6, 13], "texture": "#fire3"},
+				"south": {"uv": [0, 3, 6, 13], "texture": "#fire3"},
+				"west": {"uv": [0, 3, 1, 13], "texture": "#fire3"},
+				"up": {"uv": [0, 3, 6, 4], "texture": "#fire3"}
+			}
+		},
+		{
+			"name": "bracer",
+			"from": [5.5, 15, 7],
+			"to": [11.5, 18, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.5, 23, 7]},
+			"faces": {
+				"north": {"uv": [6, 3, 12, 6], "texture": "#fire3"},
+				"east": {"uv": [7, 3, 10, 6], "texture": "#fire3"},
+				"south": {"uv": [6, 3, 12, 6], "texture": "#fire3"},
+				"west": {"uv": [7, 3, 10, 6], "texture": "#fire3"},
+				"up": {"uv": [6, 0, 12, 3], "texture": "#fire3"},
+				"down": {"uv": [6, 6, 12, 9], "texture": "#fire3"}
+			}
+		},
+		{
+			"name": "handle",
+			"from": [7.5, 3, 7.5],
+			"to": [9.5, 15, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 15, 7.5]},
+			"faces": {
+				"north": {"uv": [14, 0, 16, 12], "texture": "#fire3"},
+				"east": {"uv": [12, 0, 14, 12], "texture": "#fire3"},
+				"south": {"uv": [14, 0, 16, 12], "texture": "#fire3"},
+				"west": {"uv": [12, 0, 14, 12], "texture": "#fire3"}
+			}
+		},
+		{
+			"name": "handle",
+			"from": [7.5, -13, 7.5],
+			"to": [9.5, 3, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, -5, 7.5]},
+			"faces": {
+				"north": {"uv": [10, 0, 12, 16], "texture": "#fire3"},
+				"east": {"uv": [10, 0, 12, 16], "texture": "#fire3"},
+				"south": {"uv": [10, 0, 12, 16], "texture": "#fire3"},
+				"west": {"uv": [10, 0, 12, 16], "texture": "#fire3"}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [7, -13, 7],
+			"to": [10, -10, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, -5, 7.5]},
+			"faces": {
+				"north": {"uv": [13, 13, 16, 16], "texture": "#fire3"},
+				"east": {"uv": [10, 13, 13, 16], "texture": "#fire3"},
+				"south": {"uv": [13, 13, 16, 16], "texture": "#fire3"},
+				"west": {"uv": [10, 13, 13, 16], "texture": "#fire3"},
+				"up": {"uv": [13, 13, 16, 16], "texture": "#fire3"},
+				"down": {"uv": [10, 13, 13, 16], "texture": "#fire3"}
+			}
+		},
+		{
+			"name": "wrap",
+			"from": [7.5, 7, 8.5],
+			"to": [11.5, 14, 8.75],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [10.5, 14, 8.5]},
+			"faces": {
+				"north": {"uv": [6, 9, 10, 16], "texture": "#fire3"},
+				"south": {"uv": [10, 9, 6, 16], "texture": "#fire3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 70, 0],
+			"translation": [-0.5, 1, 1.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 70, 0],
+			"translation": [-0.5, 1, 0.75],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10, 90, 0],
+			"translation": [2.25, 3.75, 0.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-10, -90, 0],
+			"translation": [2.25, 3.75, 0.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"rotation": [45, 0, 45],
+			"translation": [0, 6, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-20, 160, 30],
+			"translation": [-0.25, -0.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"translation": [0, -0.25, -1.25],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

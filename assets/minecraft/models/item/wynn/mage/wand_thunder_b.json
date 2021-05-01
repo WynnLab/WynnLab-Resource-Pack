@@ -1,0 +1,268 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"wand": "wynn/weapons/mage/thunder_tier_a_b"
+	},
+	"elements": [
+		{
+			"name": "gem",
+			"from": [5, 19, 6],
+			"to": [11, 23, 10],
+			"faces": {
+				"north": {"uv": [2, 1, 8, 5], "texture": "#wand"},
+				"east": {"uv": [3, 1, 7, 5], "texture": "#wand"},
+				"south": {"uv": [2, 1, 8, 5], "texture": "#wand"},
+				"west": {"uv": [3, 1, 7, 5], "texture": "#wand"},
+				"up": {"uv": [2, 1, 8, 5], "texture": "#wand"},
+				"down": {"uv": [2, 1, 8, 5], "texture": "#wand"}
+			}
+		},
+		{
+			"name": "gem",
+			"from": [6, 18, 6],
+			"to": [10, 24, 10],
+			"faces": {
+				"north": {"uv": [3, 0, 7, 6], "texture": "#wand"},
+				"east": {"uv": [3, 0, 7, 6], "texture": "#wand"},
+				"south": {"uv": [3, 0, 7, 6], "texture": "#wand"},
+				"west": {"uv": [3, 0, 7, 6], "texture": "#wand"},
+				"up": {"uv": [3, 1, 7, 5], "texture": "#wand"},
+				"down": {"uv": [3, 1, 7, 5], "texture": "#wand"}
+			}
+		},
+		{
+			"name": "gem",
+			"from": [6, 19, 5],
+			"to": [10, 23, 11],
+			"faces": {
+				"north": {"uv": [3, 1, 7, 5], "texture": "#wand"},
+				"east": {"uv": [2, 1, 8, 5], "texture": "#wand"},
+				"south": {"uv": [3, 1, 7, 5], "texture": "#wand"},
+				"west": {"uv": [2, 1, 8, 5], "texture": "#wand"},
+				"up": {"uv": [3, 0, 7, 6], "texture": "#wand"},
+				"down": {"uv": [3, 0, 7, 6], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [6, 14, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [3, 8, 7, 10], "texture": "#wand"},
+				"east": {"uv": [3, 8, 7, 10], "texture": "#wand"},
+				"south": {"uv": [3, 8, 7, 10], "texture": "#wand"},
+				"west": {"uv": [3, 8, 7, 10], "texture": "#wand"},
+				"up": {"uv": [3, 9, 7, 13], "texture": "#wand"},
+				"down": {"uv": [3, 9, 7, 13], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [5, 12, 7],
+			"to": [11, 14, 9],
+			"faces": {
+				"north": {"uv": [2, 10, 8, 12], "texture": "#wand"},
+				"east": {"uv": [4, 10, 6, 12], "texture": "#wand"},
+				"south": {"uv": [2, 10, 8, 12], "texture": "#wand"},
+				"west": {"uv": [4, 10, 6, 12], "texture": "#wand"},
+				"up": {"uv": [8, 10, 2, 12], "texture": "#wand"},
+				"down": {"uv": [2, 11, 8, 12], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [6, 10, 6],
+			"to": [10, 12, 10],
+			"faces": {
+				"north": {"uv": [3, 12, 7, 14], "texture": "#wand"},
+				"east": {"uv": [3, 12, 7, 14], "texture": "#wand"},
+				"south": {"uv": [3, 12, 7, 14], "texture": "#wand"},
+				"west": {"uv": [3, 12, 7, 14], "texture": "#wand"},
+				"up": {"uv": [12, 6, 16, 10], "texture": "#wand"},
+				"down": {"uv": [12, 9, 16, 13], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [7, 8, 7],
+			"to": [9, 10, 9],
+			"faces": {
+				"north": {"uv": [4, 14, 6, 16], "texture": "#wand"},
+				"east": {"uv": [4, 14, 6, 16], "texture": "#wand"},
+				"south": {"uv": [4, 14, 6, 16], "texture": "#wand"},
+				"west": {"uv": [4, 14, 6, 16], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [7, 12, 5],
+			"to": [9, 14, 11],
+			"faces": {
+				"north": {"uv": [4, 10, 6, 12], "texture": "#wand"},
+				"east": {"uv": [2, 10, 8, 12], "texture": "#wand"},
+				"south": {"uv": [4, 10, 6, 12], "texture": "#wand"},
+				"west": {"uv": [2, 10, 8, 12], "texture": "#wand"},
+				"up": {"uv": [4, 8, 6, 14], "texture": "#wand"},
+				"down": {"uv": [4, 8, 6, 14], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [7, 16, 5],
+			"to": [9, 18, 11],
+			"faces": {
+				"north": {"uv": [2, 6, 4, 8], "texture": "#wand"},
+				"east": {"uv": [2, 6, 8, 8], "texture": "#wand"},
+				"south": {"uv": [6, 6, 8, 8], "texture": "#wand"},
+				"west": {"uv": [2, 6, 8, 8], "texture": "#wand"},
+				"down": {"uv": [2, 7, 8, 8], "rotation": 90, "texture": "#wand"}
+			}
+		},
+		{
+			"from": [7, 18, 4],
+			"to": [9, 20, 12],
+			"faces": {
+				"north": {"uv": [2, 6, 4, 8], "texture": "#wand"},
+				"east": {"uv": [1, 4, 9, 6], "texture": "#wand"},
+				"south": {"uv": [6, 6, 8, 8], "texture": "#wand"},
+				"west": {"uv": [1, 4, 9, 6], "texture": "#wand"},
+				"down": {"uv": [1, 5, 9, 6], "rotation": 90, "texture": "#wand"}
+			}
+		},
+		{
+			"from": [7, 20, 3],
+			"to": [9, 21, 13],
+			"faces": {
+				"north": {"uv": [8, 3, 10, 4], "texture": "#wand"},
+				"east": {"uv": [0, 3, 10, 4], "texture": "#wand"},
+				"south": {"uv": [8, 3, 10, 4], "texture": "#wand"},
+				"west": {"uv": [0, 3, 10, 4], "texture": "#wand"},
+				"up": {"uv": [0, 3, 10, 4], "rotation": 90, "texture": "#wand"},
+				"down": {"uv": [0, 3, 10, 4], "rotation": 90, "texture": "#wand"}
+			}
+		},
+		{
+			"from": [5, 16, 7],
+			"to": [11, 18, 9],
+			"faces": {
+				"north": {"uv": [2, 6, 8, 8], "texture": "#wand"},
+				"east": {"uv": [6, 6, 8, 8], "texture": "#wand"},
+				"south": {"uv": [2, 6, 8, 8], "texture": "#wand"},
+				"west": {"uv": [2, 6, 4, 8], "texture": "#wand"},
+				"down": {"uv": [2, 7, 8, 8], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [4, 18, 7],
+			"to": [12, 20, 9],
+			"faces": {
+				"north": {"uv": [1, 4, 9, 6], "texture": "#wand"},
+				"east": {"uv": [2, 6, 4, 8], "texture": "#wand"},
+				"south": {"uv": [1, 4, 9, 6], "texture": "#wand"},
+				"west": {"uv": [6, 6, 8, 8], "texture": "#wand"},
+				"down": {"uv": [1, 5, 9, 6], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [3, 20, 7],
+			"to": [13, 21, 9],
+			"faces": {
+				"north": {"uv": [0, 3, 10, 4], "texture": "#wand"},
+				"east": {"uv": [0, 3, 2, 4], "texture": "#wand"},
+				"south": {"uv": [0, 3, 10, 4], "texture": "#wand"},
+				"west": {"uv": [8, 3, 10, 4], "texture": "#wand"},
+				"up": {"uv": [0, 3, 10, 4], "texture": "#wand"},
+				"down": {"uv": [0, 3, 10, 4], "texture": "#wand"}
+			}
+		},
+		{
+			"name": "bracer",
+			"from": [6.5, 4, 6.5],
+			"to": [9.5, 6, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, 8, 8.5]},
+			"faces": {
+				"north": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"east": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"south": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"west": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"up": {"uv": [13, 6, 16, 9], "texture": "#wand"},
+				"down": {"uv": [13, 9, 16, 12], "texture": "#wand"}
+			}
+		},
+		{
+			"name": "handle",
+			"from": [7, -5, 7],
+			"to": [9, 8, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 11, 8]},
+			"faces": {
+				"north": {"uv": [10, 0, 12, 13], "texture": "#wand"},
+				"east": {"uv": [10, 0, 12, 13], "texture": "#wand"},
+				"south": {"uv": [10, 0, 12, 13], "texture": "#wand"},
+				"west": {"uv": [10, 0, 12, 13], "texture": "#wand"}
+			}
+		},
+		{
+			"name": "bracer",
+			"from": [6.5, -6, 6.5],
+			"to": [9.5, -4, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.5, -2, 8.5]},
+			"faces": {
+				"north": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"east": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"south": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"west": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"up": {"uv": [13, 6, 16, 9], "texture": "#wand"},
+				"down": {"uv": [13, 9, 16, 12], "texture": "#wand"}
+			}
+		},
+		{
+			"name": "gem",
+			"from": [7, -8, 7],
+			"to": [9, -6, 9],
+			"faces": {
+				"north": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"east": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"south": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"west": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"down": {"uv": [14, 4, 16, 6], "texture": "#wand"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [10, 0, 0],
+			"translation": [-0.7, 4, 2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [10, 0, 0],
+			"translation": [-0.7, 4, 2],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-20, 22, 0],
+			"translation": [1.25, 3, 1.7],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-20, 22, 0],
+			"translation": [1.25, 3, 1.7],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [-20, 160, 30],
+			"translation": [-0.25, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"translation": [0, -0.75, -1],
+			"scale": [0.65, 0.65, 0.65]
+		}
+	},
+	"groups": [
+		{
+			"name": "gem",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2]
+		}, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+}

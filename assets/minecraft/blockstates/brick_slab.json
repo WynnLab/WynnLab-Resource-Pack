@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "type=bottom": [
+		{ "model": "block/variants/dirt_half_slab" },
+		{ "model": "block/variants/dirt_half_slab_0" },
+		{ "model": "block/variants/dirt_half_slab_1" }
+		],
+        "type=top": [
+		{ "model": "block/variants/dirt_upper_slab" },
+		{ "model": "block/variants/dirt_upper_slab_0" },
+		{ "model": "block/variants/dirt_upper_slab_1" }
+		],
+        "type=double": { "model": "block/variants/vanta_block" }
+    }
+}

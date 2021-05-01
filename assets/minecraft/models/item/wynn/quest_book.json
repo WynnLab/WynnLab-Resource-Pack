@@ -1,0 +1,110 @@
+{
+	"credit": "Made by zeldahuman with Blockbench - https://blockbench.net",
+	"ambientocclusion": false,
+	"textures": {
+		"texture": "wynn/quest_book"
+	},
+	"elements": [
+		{
+			"name": "left-cover",
+			"from": [8, 0, 9.5],
+			"to": [14, 10, 10.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 1, 8.5]},
+			"faces": {
+				"north": {"uv": [3, 0, 6, 5], "texture": "#texture"},
+				"east": {"uv": [7.5, 10, 8, 5], "texture": "#texture"},
+				"south": {"uv": [0, 0, 3, 5], "texture": "#texture"},
+				"west": {"uv": [8.5, 5, 9, 10], "texture": "#texture"},
+				"up": {"uv": [9, 5, 12, 5.5], "texture": "#texture"},
+				"down": {"uv": [12, 6, 9, 6.5], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "left-page",
+			"from": [8, 1, 8.5],
+			"to": [13, 9, 9.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 1, 8.5]},
+			"faces": {
+				"north": {"uv": [3.5, 5.5, 6, 9.5], "texture": "#texture"},
+				"east": {"uv": [3, 9.5, 3.5, 5.5], "rotation": 180, "texture": "#texture"},
+				"west": {"uv": [0, 5.5, 0.5, 9.5], "texture": "#texture"},
+				"up": {"uv": [0.5, 5, 3, 5.5], "texture": "#texture"},
+				"down": {"uv": [3, 5, 0.5, 5.5], "rotation": 180, "texture": "#texture"}
+			}
+		},
+		{
+			"name": "right-page",
+			"from": [3, 1, 8.5],
+			"to": [8, 9, 9.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 1, 8.5]},
+			"faces": {
+				"north": {"uv": [0.5, 9.5, 3, 5.5], "texture": "#texture"},
+				"east": {"uv": [0, 5.5, 0.5, 9.5], "texture": "#texture"},
+				"west": {"uv": [3.5, 5.5, 3, 9.5], "rotation": 180, "texture": "#texture"},
+				"up": {"uv": [0.5, 5, 3, 5.5], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [0.5, 5, 3, 5.5], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "right-cover",
+			"from": [2, 0, 9.5],
+			"to": [8, 10, 10.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 1, 8.5]},
+			"faces": {
+				"north": {"uv": [11, 0, 14, 5], "texture": "#texture"},
+				"east": {"uv": [8.5, 10, 9, 5], "texture": "#texture"},
+				"south": {"uv": [8, 0, 11, 5], "texture": "#texture"},
+				"west": {"uv": [7.5, 5, 8, 10], "texture": "#texture"},
+				"up": {"uv": [9, 5, 12, 5.5], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [12, 6, 9, 6.5], "rotation": 180, "texture": "#texture"}
+			}
+		},
+		{
+			"name": "spine",
+			"from": [6.5, 0, 9],
+			"to": [9.5, 10, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 9.5]},
+			"faces": {
+				"north": {"uv": [6, 5, 7.5, 10], "texture": "#texture"},
+				"east": {"uv": [7.5, 5, 8, 10], "texture": "#texture"},
+				"south": {"uv": [6, 5, 7.5, 10], "texture": "#texture"},
+				"west": {"uv": [8.5, 5, 9, 10], "texture": "#texture"},
+				"up": {"uv": [9, 5, 9.5, 5.5], "texture": "#texture"},
+				"down": {"uv": [9, 6, 9.5, 6.5], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [10, 150, 0],
+			"translation": [-1, 4, 1.5],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [10, 150, 0],
+			"translation": [-1, 4, 1.5],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [135, 22.5, 22],
+			"translation": [-0.5, -2.5, -2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [135, 22.5, 22],
+			"translation": [-0.5, -2.5, -2]
+		},
+		"ground": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [120, -90, 0],
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 135, 0],
+			"translation": [2.75, 3, 1.5]
+		}
+	}
+}

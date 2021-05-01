@@ -1,0 +1,6 @@
+{
+    "parent": "item/wynn/accessory/root",
+    "textures": {
+        "layer0": "wynn/accessories/ring_thunder1"
+    }
+}

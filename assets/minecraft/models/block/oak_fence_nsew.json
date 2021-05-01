@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_nsew",
+    "textures": {
+        "texture": "block_variants/oak_fence"
+    }
+}

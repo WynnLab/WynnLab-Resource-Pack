@@ -1,0 +1,7 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "particle": "wynn/grayscale/leaves",
+        "cross": "wynn/grayscale/flower_tulip_white"
+    }
+}

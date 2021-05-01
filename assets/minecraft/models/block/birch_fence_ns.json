@@ -1,0 +1,7 @@
+{
+    "parent": "block/wall/wall_column_ns_above",
+    "textures": {
+        "wall": "blocks/birch_log",
+		"end": "blocks/birch_log_top"
+    }
+}

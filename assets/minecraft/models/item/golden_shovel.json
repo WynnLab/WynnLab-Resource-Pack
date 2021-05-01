@@ -1,0 +1,102 @@
+{
+   "parent":"item/handheld",
+   "textures":{
+      "layer0":"item/golden_shovel"
+   },
+   "overrides":[
+		{ "predicate": { "damage": 0.03125 },
+			"model":"item/gui/shops/left"
+		},
+		{ "predicate":{ "damage": 0.0625 },
+          		 "model":"item/gui/shops/right"
+		},
+		{ "predicate":{ "damage": 0.09375 },
+			"model":"item/gui/equipment_slot"
+		},
+		{ "predicate":{ "damage": 0.125 },
+			"model":"item/gui/crafting/main"
+		},
+		{ "predicate":{ "damage": 0.15625 },
+			"model":"item/gui/crafting/item_slot"
+		},
+		{ "predicate":{ "damage": 0.1875 },
+			"model":"item/gui/crafting/material_slot"
+		},
+		{ "predicate":{ "damage": 0.21875 },
+			"model":"item/gui/crafting/arrow_up"
+		},
+		{ "predicate":{ "damage": 0.25 },
+			"model":"item/gui/crafting/arrow_down"
+		},
+		{ "predicate":{ "damage": 0.28125 },
+			"model":"item/gui/row"
+		},
+		{ "predicate":{ "damage": 0.3125 },
+			"model":"item/gui/compass/skill_gui_bottom"
+		},
+		{ "predicate":{ "damage": 0.34375 },
+			"model":"item/gui/crafting/column_offset"
+		},
+		{ "predicate":{ "damage": 0.375 },
+			"model":"item/gui/compass/skill_gui_top"
+		},
+		{ "predicate":{ "damage": 0.40625 },
+			"model":"item/gui/compass/side_column"
+		},
+		{ "predicate":{ "damage": 0.4375 },
+			"model":"item/gui/buttons/arrow_left"
+		},
+		{ "predicate":{ "damage": 0.46875 },
+			"model":"item/gui/buttons/arrow_right"
+		},
+		{ "predicate":{ "damage": 0.500 },
+			"model":"item/gui/buttons/arrow_right_red"
+		},
+		{ "predicate":{ "damage": 0.53125 },
+			"model":"item/gui/buttons/check_gray"
+		},
+		{ "predicate":{ "damage": 0.5625 },
+			"model":"item/gui/buttons/check_red"
+		},
+		{ "predicate":{ "damage": 0.59375 },
+			"model":"item/gui/buttons/check_yellow"
+		},
+		{ "predicate":{ "damage": 0.625 },
+			"model":"item/gui/buttons/check_green"
+		},
+		{ "predicate":{ "damage": 0.65625 },
+			"model":"item/gui/buttons/refresh"
+		},
+		{ "predicate":{ "damage": 0.6875 },
+			"model":"item/gui/buttons/add"
+		},
+		{ "predicate":{ "damage": 0.71875 },
+			"model":"item/gui/trade_icon"
+		},
+		{ "predicate":{ "damage": 0.75 },
+			"model":"item/gui/beacon"
+		},
+		{ "predicate":{ "damage": 0.78125 },
+			"model":"item/gui/beacongreen"
+		},
+		{ "predicate":{ "damage": 0.8125 },
+			"model":"item/gui/shops/lefttome"
+		},
+		{ "predicate":{ "damage": 0.84375 },
+			"model":"item/gui/shops/righttome"
+		},
+		{ "predicate":{ "damage": 0.875 },
+			"model":"item/barrier"
+		},
+		{ "predicate":{ "damaged":1 },
+			"model":"item/barrier"
+		}
+   ],
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        }
+    }
+}

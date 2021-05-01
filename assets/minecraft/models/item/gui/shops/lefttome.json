@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/gui/8x8",
+	"textures": {
+		"texture": "wynn/gui/shops/lefttome"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, -37, -100 ],
+			"scale": [3, 3, 0]
+		}
+	}
+}

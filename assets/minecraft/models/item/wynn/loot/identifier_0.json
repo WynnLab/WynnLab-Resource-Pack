@@ -1,0 +1,6 @@
+{
+	"parent": "item/wynn/loot/root",
+    "textures": {
+        "0": "wynn/weapons/loot/identifier_0"
+    }
+}

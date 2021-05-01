@@ -1,0 +1,13 @@
+{
+    "parent": "item/gui/tile",
+    "textures": {
+        "texture": "wynn/gui/trade_icon"
+    },
+	"display": {
+	    "gui": {
+	        "rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 0, -9 ],
+	        "scale": [ 2.2, 2.2, 2.2 ]
+	    }
+	}
+}

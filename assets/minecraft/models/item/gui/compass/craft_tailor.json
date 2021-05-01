@@ -1,0 +1,6 @@
+{
+    "parent": "item/economy/compass/root",
+    "textures": {
+        "layer0": "wynn/gui/economy/craft_tailor"
+    }
+}

@@ -1,0 +1,387 @@
+{
+   "parent":"item/handheld",
+   "textures":{
+      "layer0":"item/diamond_shovel"
+   },
+   "overrides":[
+      {
+         "predicate":{
+            "damage":0.00064020486
+         },
+         "model":"item/wynn/skins/dagger/chicken_leg_staff"
+      },
+      {
+         "predicate":{
+            "damage":0.00128040973
+         },
+         "model":"item/wynn/skins/spear/kebab_spear"
+      },
+      {
+         "predicate":{
+            "damage":0.0019206146
+         },
+         "model":"item/wynn/skins/wand/swordfish_wand"
+      },
+      {
+         "predicate":{
+            "damage":0.00256081946
+         },
+         "model":"item/wynn/skins/bow/banana_bow"
+      },
+      {
+         "predicate":{
+            "damage":0.00320102433
+         },
+         "model":"item/wynn/skins/dagger/flaming_sword"
+      },
+      {
+         "predicate":{
+            "damage":0.00384122919
+         },
+         "model":"item/wynn/skins/spear/flaming_hammer"
+      },
+      {
+         "predicate":{
+            "damage":0.00448143406
+         },
+         "model":"item/wynn/skins/wand/flaming_wand"
+      },
+      {
+         "predicate":{
+            "damage":0.00512163892
+         },
+         "model":"item/wynn/skins/bow/flaming_bow"
+      },
+      {
+         "predicate":{
+            "damage":0.00576184379
+         },
+         "model":"item/wynn/skins/wand/evil_wand"
+      },
+      {
+         "predicate":{
+            "damage":0.00640204866
+         },
+         "model":"item/wynn/skins/dagger/evil_dagger"
+      },
+      {
+         "predicate":{
+            "damage":0.00704225352
+         },
+         "model":"item/wynn/skins/spear/evil_spear"
+      },
+      {
+         "predicate":{
+            "damage":0.00768245839
+         },
+         "model":"item/wynn/skins/bow/evil_bow"
+      },
+      {
+         "predicate":{
+            "damage":0.00832266325
+         },
+         "model":"item/wynn/skins/dagger/holy_dagger"
+      },
+      {
+         "predicate":{
+            "damage":0.00896286812
+         },
+         "model":"item/wynn/skins/spear/holy_hammer"
+      },
+      {
+         "predicate":{
+            "damage":0.00960307298
+         },
+         "model":"item/wynn/skins/wand/holy_wand"
+      },
+      {
+         "predicate":{
+            "damage":0.0102432778
+         },
+         "model":"item/wynn/skins/bow/holy_bow"
+      },
+      {
+         "predicate":{
+            "damage":0.0108834827
+         },
+         "model":"item/wynn/skins/dagger/lotr_dagger"
+      },
+      {
+         "predicate":{
+            "damage":0.0115236876
+         },
+         "model":"item/wynn/skins/wand/lotr_staff"
+      },
+      {
+         "predicate":{
+            "damage":0.0121638924
+         },
+         "model":"item/wynn/skins/wand/lotr_wand"
+      },
+      {
+         "predicate":{
+            "damage":0.0128040973
+         },
+         "model":"item/wynn/skins/bow/lotr_bow"
+      },
+      {
+         "predicate":{
+            "damage":0.0134443022
+         },
+         "model":"item/wynn/skins/bow/money_bow"
+      },
+      {
+         "predicate":{
+            "damage":0.014084507
+         },
+         "model":"item/wynn/skins/wand/money_wand"
+      },
+      {
+         "predicate":{
+            "damage":0.0147247119
+         },
+         "model":"item/wynn/skins/spear/money_spear"
+      },
+      {
+         "predicate":{
+            "damage":0.0153649168
+         },
+         "model":"item/wynn/skins/dagger/money_dagger"
+      },
+      {
+         "predicate":{
+            "damage":0.01600512166
+         },
+         "model":"item/wynn/skins/dagger/pan"
+      },
+      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.016645326504481 
+	  }, 
+	  "model":"item/wynn/skins/reliks/evil_relik" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.017285531370038
+	  }, 
+	  "model":"item/wynn/skins/reliks/corrupt_relik" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.017925736235595 
+	  }, 
+	  "model": "item/wynn/skins/reliks/ice_relik"
+      },
+      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.018565941101152 
+	  }, 
+	  "model":"item/wynn/skins/reliks/broccoli" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.019206145966709
+	  }, 
+	  "model":"item/wynn/skins/reliks/anchor_relik" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.019846350832266 
+	  }, 
+	  "model": "item/wynn/skins/bow/cannon_bow"
+      },
+      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.020486555697823 
+	  }, 
+	  "model":"item/wynn/skins/reliks/phoenix_relik" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.02112676056338
+	  }, 
+	  "model":"item/wynn/skins/reliks/steampunk_relik" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.021766965428937 
+	  }, 
+	  "model": "item/wynn/skins/reliks/halfmoon_relik"
+      },      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.022407170294494 
+	  }, 
+	  "model":"item/wynn/skins/reliks/future_relik" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.023047375160051
+	  }, 
+	  "model":"item/wynn/skins/reliks/money_relik" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.023687580025608 
+	  }, 
+	  "model": "item/wynn/skins/spear/oar_spear"
+      },      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.024327784891165 
+	  }, 
+	  "model":"item/wynn/skins/wand/atlas_wand" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.024967989756722
+	  }, 
+	  "model":"item/wynn/skins/dagger/hook_dagger" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.025608194622279 
+	  }, 
+	  "model": "item/wynn/skins/reliks/fellowship_relik"
+      },      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.026248399487836 
+	  }, 
+	  "model":"item/wynn/skins/dagger/rune_dagger" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.026888604353393
+	  }, 
+	  "model":"item/wynn/skins/spear/rune_spear" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.02752880921895 
+	  }, 
+	  "model": "item/wynn/skins/bow/rune_crossbow"
+      },      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.028169014084507 
+	  }, 
+	  "model":"item/wynn/skins/wand/rune_staff" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.028809218950064
+	  }, 
+	  "model":"item/wynn/skins/reliks/rune_relik" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.029449423815621
+	  }, 
+	  "model": "item/wynn/skins/spear/dynasty_spear"
+      },      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.030089628681178 
+	  }, 
+	  "model":"item/wynn/skins/dagger/dynasty_dagger" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.030729833546735
+	  }, 
+	  "model":"item/wynn/skins/wand/dynasty_wand" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.031370038412292
+	  }, 
+	  "model": "item/wynn/skins/reliks/dynasty_relik"
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.032010243277849
+	  }, 
+	  "model": "item/wynn/skins/bow/dynasty_bow"
+      },      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.033290653008963
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      },      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.03393085787452
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.034571062740077
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.035211267605634
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      },      
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.035851472471191
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      },      
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.036491677336748
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.037131882202305
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      },      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.037772087067862
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      },      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.038412291933419
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      }
+   ]
+}

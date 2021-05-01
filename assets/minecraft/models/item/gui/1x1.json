@@ -1,0 +1,39 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "#texture"
+    },
+	"gui_light": "front",
+	"display": {
+	    "gui": {
+	        "rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 0, -10 ],
+	        "scale": [ 2.2, 2.2, 2.2 ]
+	    },
+	    "ground": {
+	    	"rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 0, 0 ],
+	        "scale": [ 0, 0, 0 ]
+	    },
+	    "firstperson_righthand": {
+	    	"rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 0, 0 ],
+	        "scale": [ 0, 0, 0 ]
+	    },
+	    "firstperson_lefthand": {
+	    	"rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 0, 0 ],
+	        "scale": [ 0, 0, 0 ]
+	    },
+	    "thirdperson_righthand": {
+	    	"rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 0, 0 ],
+	        "scale": [ 0, 0, 0 ]
+	    },
+	    "thirdperson_lefthand": {
+	    	"rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 0, 0 ],
+	        "scale": [ 0, 0, 0 ]
+	    }
+	}
+}

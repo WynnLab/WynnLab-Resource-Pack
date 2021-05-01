@@ -1,0 +1,7 @@
+{
+    "parent": "block/wall/wall_column_post",
+    "textures": {
+        "wall": "block/birch_log",
+		"end": "block/birch_log_top"
+    }
+}

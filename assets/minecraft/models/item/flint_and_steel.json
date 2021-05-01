@@ -1,0 +1,208 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/flint_and_steel"
+	},
+	"overrides": [
+		{
+		"predicate": { "damage": 0.015625 },
+		"model": "item/wynn/accessory/ring/ring_base_a"
+		},
+		{
+		"predicate": { "damage": 0.03125 },
+		"model": "item/wynn/accessory/ring/ring_base_b"
+		},
+		{
+		"predicate": { "damage": 0.046875 },
+		"model": "item/wynn/accessory/ring/ring_earth_a"
+		},
+		{
+		"predicate": { "damage": 0.0625 },
+		"model": "item/wynn/accessory/ring/ring_earth_b"
+		},
+		{
+		"predicate": { "damage": 0.078125 },
+		"model": "item/wynn/accessory/ring/ring_thunder_a"
+		},
+		{
+		"predicate": { "damage": 0.09375 },
+		"model": "item/wynn/accessory/ring/ring_thunder_b"
+		},
+		{
+		"predicate": { "damage": 0.109375 },
+		"model": "item/wynn/accessory/ring/ring_fire_a"
+		},
+		{
+		"predicate": { "damage": 0.125 },
+		"model": "item/wynn/accessory/ring/ring_fire_b"
+		},
+		{
+		"predicate": { "damage": 0.140625 },
+		"model": "item/wynn/accessory/ring/ring_air_a"
+		},
+		{
+		"predicate": { "damage": 0.15625 },
+		"model": "item/wynn/accessory/ring/ring_air_b"
+		},
+		{
+		"predicate": { "damage": 0.171875 },
+		"model": "item/wynn/accessory/ring/ring_water_a"
+		},
+		{
+		"predicate": { "damage": 0.1875 },
+		"model": "item/wynn/accessory/ring/ring_water_b"
+		},
+		{
+		"predicate": { "damage": 0.203125 },
+		"model": "item/wynn/accessory/ring/ring_multi_a"
+		},
+		{
+		"predicate": { "damage": 0.21875 },
+		"model": "item/wynn/accessory/ring/ring_multi_b"
+		},
+		{
+		"predicate": { "damage": 0.234375 },
+		"model": "item/wynn/accessory/ring/ring_special_a"
+		},
+		{
+		"predicate": { "damage": 0.250 },
+		"model": "item/wynn/accessory/ring/ring_special_b"
+		},
+		{
+		"predicate": { "damage": 0.265625 },
+		"model": "item/wynn/accessory/ring/ring_special_c"
+		},
+		{
+		"predicate": { "damage": 0.28125 },
+		"model": "item/wynn/accessory/necklace/necklace_base_a"
+		},
+		{
+		"predicate": { "damage": 0.296875 },
+		"model": "item/wynn/accessory/necklace/necklace_base_b"
+		},
+		{
+		"predicate": { "damage": 0.3125 },
+		"model": "item/wynn/accessory/necklace/necklace_earth_a"
+		},
+		{
+		"predicate": { "damage": 0.328125 },
+		"model": "item/wynn/accessory/necklace/necklace_earth_b"
+		},
+		{
+		"predicate": { "damage": 0.34375 },
+		"model": "item/wynn/accessory/necklace/necklace_thunder_a"
+		},
+		{
+		"predicate": { "damage": 0.359375 },
+		"model": "item/wynn/accessory/necklace/necklace_thunder_b"
+		},
+		{
+		"predicate": { "damage": 0.375 },
+		"model": "item/wynn/accessory/necklace/necklace_fire_a"
+		},
+		{
+		"predicate": { "damage": 0.390625 },
+		"model": "item/wynn/accessory/necklace/necklace_fire_b"
+		},
+		{
+		"predicate": { "damage": 0.40625 },
+		"model": "item/wynn/accessory/necklace/necklace_air_a"
+		},
+		{
+		"predicate": { "damage": 0.421875 },
+		"model": "item/wynn/accessory/necklace/necklace_air_b"
+		},
+		{
+		"predicate": { "damage": 0.4375 },
+		"model": "item/wynn/accessory/necklace/necklace_water_a"
+		},
+		{
+		"predicate": { "damage": 0.453125 },
+		"model": "item/wynn/accessory/necklace/necklace_water_b"
+		},
+		{
+		"predicate": { "damage": 0.46875 },
+		"model": "item/wynn/accessory/necklace/necklace_multi_a"
+		},
+		{
+		"predicate": { "damage": 0.484375 },
+		"model": "item/wynn/accessory/necklace/necklace_multi_b"
+		},
+		{
+		"predicate": { "damage": 0.500 },
+		"model": "item/wynn/accessory/necklace/necklace_special_a"
+		},
+		{
+		"predicate": { "damage": 0.515625 },
+		"model": "item/wynn/accessory/necklace/necklace_special_b"
+		},
+		{
+		"predicate": { "damage": 0.53125 },
+		"model": "item/wynn/accessory/necklace/necklace_special_c"
+		},
+		{
+		"predicate": { "damage": 0.546875 },
+		"model": "item/wynn/accessory/bracelet/bracelet_base_a"
+		},
+		{
+		"predicate": { "damage": 0.5625 },
+		"model": "item/wynn/accessory/bracelet/bracelet_base_b"
+		},
+		{
+		"predicate": { "damage": 0.578125 },
+		"model": "item/wynn/accessory/bracelet/bracelet_earth_a"
+		},
+		{
+		"predicate": { "damage": 0.59375 },
+		"model": "item/wynn/accessory/bracelet/bracelet_earth_b"
+		},
+		{
+		"predicate": { "damage": 0.609375 },
+		"model": "item/wynn/accessory/bracelet/bracelet_thunder_a"
+		},
+		{
+		"predicate": { "damage": 0.6250 },
+		"model": "item/wynn/accessory/bracelet/bracelet_thunder_b"
+		},
+		{
+		"predicate": { "damage": 0.640625 },
+		"model": "item/wynn/accessory/bracelet/bracelet_fire_a"
+		},
+		{
+		"predicate": { "damage": 0.65625 },
+		"model": "item/wynn/accessory/bracelet/bracelet_fire_b"
+		},
+		{
+		"predicate": { "damage": 0.671875 },
+		"model": "item/wynn/accessory/bracelet/bracelet_air_a"
+		},
+		{
+		"predicate": { "damage": 0.6875 },
+		"model": "item/wynn/accessory/bracelet/bracelet_air_b"
+		},
+		{
+		"predicate": { "damage": 0.703125 },
+		"model": "item/wynn/accessory/bracelet/bracelet_water_a"
+		},
+		{
+		"predicate": { "damage": 0.71875 },
+		"model": "item/wynn/accessory/bracelet/bracelet_water_b"
+		},
+		{
+		"predicate": { "damage": 0.734375 },
+		"model": "item/wynn/accessory/bracelet/bracelet_multi_a"
+		},
+		{
+		"predicate": { "damage": 0.750 },
+		"model": "item/wynn/accessory/bracelet/bracelet_multi_b"
+		},
+		{
+		"predicate": { "damage": 0.765625 },
+		"model": "item/barrier"
+		},
+		{
+        "predicate": { "damaged": 1 },
+        "model":"item/barrier"
+		}
+	]
+}

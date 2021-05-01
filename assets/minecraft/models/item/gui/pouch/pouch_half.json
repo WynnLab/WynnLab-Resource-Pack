@@ -1,0 +1,6 @@
+{
+    "parent": "item/gui/pouch/root",
+    "textures": {
+        "layer0": "wynn/gui/pouch/half"
+    }
+}

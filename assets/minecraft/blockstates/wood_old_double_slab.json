@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+			{ "model": "block/variants/molten_rock" },
+			{ "model": "block/variants/molten_rock_0" },
+			{ "model": "block/variants/molten_rock_1" },
+			{ "model": "block/variants/molten_rock_2" }
+		]
+    }
+}

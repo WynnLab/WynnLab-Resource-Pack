@@ -1,0 +1,256 @@
+{
+   "parent":"item/handheld",
+   "textures":{
+      "layer0":"item/diamond_pickaxe"
+   },
+   "overrides":[
+      {
+         "predicate":{
+            "damage":0.0006406149903907751
+         },
+         "model":"item/wynn/skins/dagger/banana_dagger_model"
+      },
+      {
+         "predicate":{
+            "damage":0.0012812299807815502
+         },
+         "model":"item/wynn/skins/spear/steampunk_spear_model"
+      },
+      {
+         "predicate":{
+            "damage":0.0019218449711723253
+         },
+         "model":"item/wynn/skins/wand/steampunk_wand_model"
+      },
+      {
+         "predicate":{
+            "damage":0.0025624599615631004
+         },
+         "model":"item/wynn/skins/dagger/scifi_dagger_model"
+      },
+      {
+         "predicate":{
+            "damage":0.0032030749519538755
+         },
+         "model":"item/wynn/skins/spear/scifi_spear_model"
+      },
+      {
+         "predicate":{
+            "damage":0.0038436899423446506
+         },
+         "model":"item/wynn/skins/wand/scifi_wand_model"
+      },
+      {
+         "predicate":{
+            "damage":0.0044843049327354257
+         },
+         "model":"item/wynn/skins/dagger/steampunk_dagger_model"
+      },
+      {
+         "predicate":{
+            "damage":0.0051249199231262008
+         },
+         "model":"item/wynn/skins/bow/steampunk_bow_model"
+      },
+      {
+         "predicate":{
+            "damage":0.0057655349135169759
+         },
+         "model":"item/wynn/skins/bow/scifi_bow_model"
+      },
+      {
+         "predicate":{
+            "damage":0.006406149903907751
+         },
+         "model":"item/wynn/skins/dagger/rainbow_dagger_model"
+      },
+      {
+         "predicate":{
+            "damage":0.007046764894298520
+         },
+         "model":"item/wynn/skins/spear/spear_corrupted"
+      },
+      {
+         "predicate":{
+            "damage":0.00768737988468931
+         },
+         "model":"item/wynn/skins/wand/wand_corrupted"
+      },
+      {
+         "predicate":{
+            "damage":0.008327994875080071
+         },
+         "model":"item/wynn/skins/dagger/dagger_corrupted"
+      },
+      {
+         "predicate":{
+            "damage":0.008968609865470851
+         },
+         "model":"item/wynn/skins/bow/bow_corrupted"
+     },
+     {
+        "predicate":{
+           "damage":0.00960922485
+        },
+        "model":"item/wynn/skins/bow/bow_frost"
+    },
+    {
+       "predicate":{
+          "damage":0.01024983984
+       },
+       "model":"item/wynn/skins/spear/spear_frost"
+   },
+   {
+      "predicate":{
+         "damage":0.01089045483
+      },
+      "model":"item/wynn/skins/wand/wand_frost"
+  },
+  {
+     "predicate":{
+        "damage":0.01153106982
+     },
+     "model":"item/wynn/skins/dagger/dagger_frost"
+ },
+  {
+         "predicate":{
+            "damage":0.0121638924
+         },
+         "model":"item/wynn/skins/hat/straw_cone"
+      },
+      {
+         "predicate":{
+            "damage":0.0128040973
+         },
+         "model":"item/wynn/skins/hat/bounty_hunter"
+      },
+      {
+         "predicate":{
+            "damage":0.0134443022
+         },
+         "model":"item/wynn/skins/hat/horns"
+      },
+      {
+         "predicate":{
+            "damage":0.014084507
+         },
+         "model":"item/wynn/skins/hat/flower_crown"
+      },
+      {
+         "predicate":{
+            "damage":0.0147247119
+         },
+         "model":"item/wynn/skins/hat/dark_knight"
+      },
+      {
+         "predicate":{
+            "damage":0.0153649168
+         },
+         "model":"item/wynn/skins/hat/yahya_hat"
+      },
+      {
+         "predicate":{
+            "damage":0.01600512166
+         },
+         "model":"item/wynn/skins/hat/link_hat"
+      },
+      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.016645326504481 
+	  }, 
+	  "model":"item/wynn/skins/hat/wings" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.017285531370038
+	  }, 
+	  "model":"item/wynn/boss/orphion_head" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.017925736235595 
+	  }, 
+	  "model":"item/wynn/boss/orphion_jaw"
+      },
+      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.018565941101152 
+	  }, 
+	  "model":"item/wynn/boss/orphion_body" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.019206145966709
+	  }, 
+	  "model":"item/wynn/boss/orphion_leg" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.019846350832266 
+	  }, 
+	  "model": "item/wynn/boss/orphion_thigh"
+      },
+      { 
+	 "predicate": { 
+	   "damaged": 0, 
+	   "damage": 0.020486555697823 
+	  }, 
+	  "model":"item/wynn/boss/orphion_tail" 
+      },
+      { 
+	 "predicate": { 
+	    "damaged": 0, 
+	    "damage": 0.02112676056338
+	  }, 
+	  "model":"item/wynn/boss/vanta_orphion_head" 
+      },
+      { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.021766965428937 
+	  }, 
+	  "model": "item/wynn/boss/vanta_orphion_body"
+      },
+	  { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.0224075804193277 
+	  }, 
+	  "model": "item/wynn/boss/vanta_orphion_leg"
+      },
+	  { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.0230481954097184
+	  }, 
+	  "model": "item/wynn/boss/vanta_orphion_thigh"
+      },
+	  { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.0236888104001091 
+	  }, 
+	  "model": "item/wynn/boss/vanta_orphion_tail"
+      },
+	  { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.0243294253904998
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      },
+	  { 
+	  "predicate": { 
+	    "damaged": 0, 
+	     "damage": 0.0249700403808905 
+	  }, 
+	  "model": "item/wynn/skins/placeholder"
+      }
+   ]
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "item/gui/tile",
+    "textures": {
+        "texture": "wynn/gui/column"
+    },
+	"display": {
+	    "gui": {
+	        "rotation": [ 0, 0, 90 ],
+	        "translation": [ 0, 0, -10 ],
+	        "scale": [ 2.2, 2.2, 2.2 ]
+	    }
+	}
+}

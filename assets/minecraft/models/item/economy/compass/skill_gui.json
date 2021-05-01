@@ -1,0 +1,26 @@
+{
+    "textures": {
+        "texture": "wynn/gui/economy/compass_skill"
+    },
+	"elements": [
+        {
+            "from": [ -16, -16, 31.75 ],
+            "to": [ 32, 32, 32 ],
+            "faces": {
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+            }
+        }
+    ],
+	"display": {
+	    "gui": {
+	        "rotation": [ 0, 0, 0 ],
+	        "translation": [ 17, -36, -25 ],
+	        "scale": [ 2, 2, 0 ]
+	    },
+		"fixed": {
+			"scale": [2, 2, 2 ],
+			"rotation": [0, 180, 0 ],
+			"translation": [0, 0, 1 ]
+		}
+	}
+}

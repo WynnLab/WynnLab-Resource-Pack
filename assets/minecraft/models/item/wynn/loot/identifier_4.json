@@ -1,0 +1,12 @@
+{
+	"parent": "item/wynn/loot/root",
+    "textures": {
+        "0": "wynn/weapons/loot/identifier_4"
+    },
+	"display": {
+		"ground": {
+			"translation": [0, 6, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

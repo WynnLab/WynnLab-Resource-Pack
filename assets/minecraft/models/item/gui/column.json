@@ -1,0 +1,6 @@
+{
+    "parent": "item/gui/tile",
+    "textures": {
+        "texture": "wynn/gui/column"
+    }
+}

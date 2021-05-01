@@ -1,0 +1,71 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "rail": "block/activator_rail",
+        "particle": "block/oak_planks"
+    },
+    "elements": [
+        {
+            "from": [12.25,0,0],
+            "to": [13.75,1,16],
+			"rotation": { "origin": [ 8, 1, 16 ], "axis": "x", "angle": 45, "rescale": true },
+            "faces": {
+                "up": {
+                    "texture": "#rail"
+                },
+                "down": {
+                    "texture": "#rail"
+                },
+                "west": {
+                    "uv": [12,0,13,16],
+                    "texture": "#rail",
+                    "rotation": 90
+                },
+                "east": {
+                    "uv": [13,0,14,16],
+                    "texture": "#rail",
+                    "rotation": 90
+                },
+                "north": {
+                    "uv": [14,0,12,1],
+                    "texture": "#rail"
+                },
+                "south": {
+                    "texture": "#rail"
+                }
+            }
+        },
+        {
+            "from": [2.25,0,0],
+            "to": [3.75,1,16],
+			"rotation": { "origin": [ 8, 1, 16 ], "axis": "x", "angle": 45, "rescale": true },
+            "faces": {
+                "up": {
+                    "uv": [2,0,4,16],
+                    "texture": "#rail"
+                },
+                "down": {
+                    "texture": "#rail"
+                },
+                "west": {
+                    "uv": [2,0,3,16],
+                    "texture": "#rail",
+                    "rotation": 90
+                },
+                "east": {
+                    "uv": [3,0,4,16],
+                    "texture": "#rail",
+                    "rotation": 90
+                },
+                "north": {
+                    "uv": [4,0,2,1],
+                    "texture": "#rail"
+                },
+                "south": {
+                    "texture": "#rail"
+                }
+            }
+        }
+    ]
+}

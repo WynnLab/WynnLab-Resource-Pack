@@ -1,0 +1,32 @@
+{    
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/red_sandstone",
+        "top": "block/red_sandstone_top",
+        "side1": "block/chiseled_red_sandstone",
+		"bottom": "block/red_sandstone_bottom",
+		"side2": "block_variants/chiseled_red_sandstone_0"
+    },
+	"elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top", "cullface": "up" },
+                "north": { "texture": "#side2", "cullface": "north" },
+                "south": { "texture": "#side2", "cullface": "south" },
+                "west":  { "texture": "#side2", "cullface": "west" },
+                "east":  { "texture": "#side2", "cullface": "east" }
+            }
+        },
+		{   "from": [ -0.02, 0, -0.02 ],
+            "to": [ 16.02, 16, 16.02 ],
+            "faces": {
+                "north": { "uv": [0,0,16,16], "texture": "#side1", "cullface": "up" },
+                "south": { "uv": [0,0,16,16], "texture": "#side1", "cullface": "up" },
+                "west":  { "uv": [0,0,16,16], "texture": "#side1", "cullface": "up" },
+                "east":  { "uv": [0,0,16,16], "texture": "#side1", "cullface": "up" }
+            }
+        }
+    ]
+}

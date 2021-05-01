@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/emerald_ore" },
+		{ "model": "block/variants/emerald_ore_0" }
+		]
+    }
+}

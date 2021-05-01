@@ -1,0 +1,7 @@
+{
+    "parent": "block/totems/mob_totem",
+    "textures": {
+		"0": "wynn/mob_totem",
+        "particle": "block/stone"
+    }
+}

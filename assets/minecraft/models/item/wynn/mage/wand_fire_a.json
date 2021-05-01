@@ -1,0 +1,111 @@
+{
+	"credit": "Made by zeldahuman with Blockbench - https://blockbench.net",
+	"ambientocclusion": false,
+	"textures": {
+		"wand": "wynn/weapons/mage/fire_tier_a",
+		"flame": "wynn/weapons/anim/flame_small"
+	},
+	"elements": [
+		{
+			"from": [7, -5, 7],
+			"to": [9, 5, 9],
+			"faces": {
+				"north": {"uv": [14, 6, 16, 16], "texture": "#wand"},
+				"east": {"uv": [14, 6, 16, 16], "texture": "#wand"},
+				"south": {"uv": [14, 6, 16, 16], "texture": "#wand"},
+				"west": {"uv": [14, 6, 16, 16], "texture": "#wand"},
+				"down": {"uv": [14, 14, 16, 16], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [7, 5, 7],
+			"to": [9, 21, 9],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#wand"},
+				"east": {"uv": [2, 0, 4, 16], "texture": "#wand"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#wand"},
+				"west": {"uv": [2, 0, 4, 16], "texture": "#wand"},
+				"up": {"uv": [2, 0, 4, 1], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [5, 18, 6],
+			"to": [11, 20, 10],
+			"faces": {
+				"north": {"uv": [0, 1, 6, 3], "texture": "#wand"},
+				"east": {"uv": [1, 1, 5, 3], "texture": "#wand"},
+				"south": {"uv": [0, 1, 6, 3], "texture": "#wand"},
+				"west": {"uv": [1, 1, 5, 3], "texture": "#wand"},
+				"up": {"uv": [8, 12, 14, 16], "texture": "#wand"},
+				"down": {"uv": [0, 2, 6, 3], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [6, 17, 6],
+			"to": [10, 18, 10],
+			"faces": {
+				"north": {"uv": [1, 3, 5, 4], "texture": "#wand"},
+				"east": {"uv": [1, 3, 5, 4], "texture": "#wand"},
+				"south": {"uv": [1, 3, 5, 4], "texture": "#wand"},
+				"west": {"uv": [1, 3, 5, 4], "texture": "#wand"},
+				"down": {"uv": [1, 3, 5, 4], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [4, 22, 7.98],
+			"to": [12, 30, 8.02],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 22, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#flame"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#flame"}
+			}
+		},
+		{
+			"from": [4, 22, 7.98],
+			"to": [12, 30, 8.02],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 22, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#flame"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#flame"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [6, -80, 0],
+			"translation": [-0.5, 1, 1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [6, 100, 0],
+			"translation": [-0.5, 1, 1.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -80, 0],
+			"translation": [1, -1, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -80, 0],
+			"translation": [1, -1, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [-20, 160, 30],
+			"translation": [-1, -1, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"fixed": {
+			"translation": [0, -0.75, -1],
+			"scale": [0.65, 0.65, 0.65]
+		}
+	}
+}

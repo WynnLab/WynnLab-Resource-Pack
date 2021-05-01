@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "age=0": { "model": "block/potatoes_stage0" },
+        "age=1": [
+		{ "model": "block/crop/sorghum" },
+		{ "model": "block/crop/sorghum1" }
+		],
+        "age=2": [
+		{ "model": "block/crop/wheat_harvest" },
+		{ "model": "block/crop/wheat_harvest1" }
+		],
+        "age=3": { "model": "block/potatoes_stage1" },
+        "age=4": { "model": "block/potatoes_stage2" },
+        "age=5": { "model": "block/potatoes_stage2" },
+        "age=6": { "model": "block/potatoes_stage2" },
+        "age=7": { "model": "block/potatoes_stage3" }
+    }
+}

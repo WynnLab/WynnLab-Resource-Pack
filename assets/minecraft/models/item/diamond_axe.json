@@ -1,0 +1,399 @@
+{
+   "parent":"item/handheld",
+   "textures":{
+      "layer0":"item/diamond_axe"
+   },
+   "overrides":[
+		{
+        "predicate":{ "damage": 0.0006402 },
+        "model":"item/economy/harvest/barley_malt"
+		},
+        {
+        "predicate":{ "damage": 0.0012804 },
+        "model":"item/economy/harvest/oats"
+        },
+		{
+        "predicate":{ "damage": 0.0019206 },
+        "model":"item/economy/harvest/hops"
+        },
+		{
+        "predicate":{ "damage": 0.0025608 },
+        "model":"item/economy/harvest/rye_millet"
+        },
+		{
+        "predicate":{ "damage": 0.003201 },
+        "model":"item/economy/harvest/decay_root"
+        },
+		{
+        "predicate":{ "damage": 0.0038412 },
+        "model":"item/economy/harvest/rice"
+        },
+		{
+        "predicate":{ "damage": 0.0044814 },
+        "model":"item/economy/harvest/sorghum"
+        },
+		{
+        "predicate":{ "damage": 0.0051216 },
+        "model":"item/economy/harvest/hemp"
+        },
+		{
+        "predicate":{ "damage": 0.0057618 },
+        "model":"item/economy/harvest/dernic_seed"
+        },
+		{
+        "predicate":{ "damage": 0.006402 },
+        "model":"item/economy/harvest/string_yellow"
+        },
+		{
+        "predicate":{ "damage": 0.0070422 },
+        "model":"item/economy/harvest/string_green"
+        },
+		{
+        "predicate":{ "damage": 0.0076824 },
+        "model":"item/economy/harvest/string_brown"
+        },
+		{
+        "predicate":{ "damage": 0.0083226 },
+        "model":"item/economy/harvest/string_white"
+        },
+		{
+        "predicate":{ "damage": 0.0089628 },
+        "model":"item/economy/harvest/seeds_cream"
+        },
+		{
+        "predicate":{ "damage": 0.009603 },
+        "model":"item/economy/harvest/seeds_green"
+        },
+		{
+        "predicate":{ "damage": 0.0102432 },
+        "model":"item/economy/harvest/seeds_brown"
+        },
+		{
+        "predicate":{ "damage": 0.0108834 },
+        "model":"item/economy/harvest/seeds_red"
+        },
+		{
+        "predicate":{ "damage": 0.0115236 },
+        "model":"item/economy/fishing/gudgeon"
+        },
+		{
+        "predicate":{ "damage": 0.0121638 },
+        "model":"item/economy/fishing/trout"
+        },
+		{
+        "predicate":{ "damage": 0.012804 },
+        "model":"item/economy/fishing/salmon"
+        },{
+        "predicate":{ "damage": 0.0134442 },
+        "model":"item/economy/fishing/carp"
+        },
+		{
+        "predicate":{ "damage": 0.0140844 },
+        "model":"item/economy/fishing/icefish"
+        },
+		{
+        "predicate":{ "damage": 0.0147246 },
+        "model":"item/economy/fishing/piranha"
+        },
+		{
+        "predicate":{ "damage": 0.0153648 },
+        "model":"item/economy/fishing/koi"
+        },
+		{
+        "predicate":{ "damage": 0.016005 },
+        "model":"item/economy/fishing/gylia_fish"
+        },
+		{
+        "predicate":{ "damage": 0.0166452 },
+        "model":"item/economy/fishing/bass"
+        },
+		{
+        "predicate":{ "damage": 0.0172854 },
+        "model":"item/economy/fishing/molten_eel"
+        },
+		{
+        "predicate":{ "damage": 0.0179256 },
+        "model":"item/economy/fishing/starfish"
+        },
+		{
+        "predicate":{ "damage": 0.0185658 },
+        "model":"item/economy/fishing/dernic_fish"
+        },
+		{
+        "predicate":{ "damage": 0.019206 },
+        "model":"item/economy/fishing/cooked_gray"
+        },
+		{
+        "predicate":{ "damage": 0.0198462 },
+        "model":"item/economy/fishing/cooked_pink"
+        },
+		{
+        "predicate":{ "damage": 0.0204864 },
+        "model":"item/economy/fishing/cooked_orange"
+        },
+		{
+        "predicate":{ "damage": 0.0211266 },
+        "model":"item/economy/fishing/cooked_yellow"
+        },
+		{
+        "predicate":{ "damage": 0.0217668 },
+        "model":"item/economy/fishing/cooked_blue"
+        },
+		{
+        "predicate":{ "damage": 0.022407 },
+        "model":"item/economy/fishing/oil_gray"
+        },
+		{
+        "predicate":{ "damage": 0.0230472 },
+        "model":"item/economy/fishing/oil_red"
+        },
+		{
+        "predicate":{ "damage": 0.0236874 },
+        "model":"item/economy/fishing/oil_orange"
+        },
+		{
+        "predicate":{ "damage": 0.0243276 },
+        "model":"item/economy/fishing/oil_yellow"
+        },
+		{
+        "predicate":{ "damage": 0.0249678 },
+        "model":"item/economy/fishing/oil_blue"
+        },
+		{
+        "predicate":{ "damage": 0.025608 },
+        "model":"item/economy/woodcutting/paper_cream"
+        },
+		{
+        "predicate":{ "damage": 0.0262482 },
+        "model":"item/economy/woodcutting/paper_brown"
+        },
+		{
+        "predicate":{ "damage": 0.0268884 },
+        "model":"item/economy/woodcutting/scroll"
+        },
+		{
+        "predicate":{ "damage": 0.0275286 },
+        "model":"item/economy/woodcutting/scroll_cream"
+        },
+		{
+        "predicate":{ "damage": 0.0281688 },
+        "model":"item/economy/woodcutting/scroll_brown"
+        },
+		{
+        "predicate":{ "damage": 0.028809 },
+        "model":"item/economy/mining/copper"
+        },
+		{
+        "predicate":{ "damage": 0.0294492 },
+        "model":"item/economy/mining/granite"
+        },
+		{
+        "predicate":{ "damage": 0.0300894 },
+        "model":"item/economy/mining/gold"
+        },
+		{
+        "predicate":{ "damage": 0.0307296 },
+        "model":"item/economy/mining/sandstone"
+        },
+		{
+        "predicate":{ "damage": 0.0313698 },
+        "model":"item/economy/mining/iron"
+        },
+		{
+        "predicate":{ "damage": 0.03201 },
+        "model":"item/economy/mining/silver"
+        },
+		{
+        "predicate":{ "damage": 0.0326502 },
+        "model":"item/economy/mining/cobalt"
+        },
+		{
+        "predicate":{ "damage": 0.0332904 },
+        "model":"item/economy/mining/kanderstone"
+        },
+		{
+        "predicate":{ "damage": 0.0339306 },
+        "model":"item/economy/mining/cluster_diamond"
+        },
+		{
+        "predicate":{ "damage": 0.0345708 },
+        "model":"item/economy/mining/molten_rock"
+        },
+		{
+        "predicate":{ "damage": 0.035211 },
+        "model":"item/economy/mining/voidstone"
+        },
+		{
+        "predicate":{ "damage": 0.0358512 },
+        "model":"item/economy/mining/dernic"
+        },
+		{
+        "predicate":{ "damage": 0.0364914 },
+        "model":"item/economy/mining/gem_copper"
+        },
+		{
+        "predicate":{ "damage": 0.0371316 },
+        "model":"item/economy/mining/gem_granite"
+        },
+		{
+        "predicate":{ "damage": 0.0377718 },
+        "model":"item/economy/mining/gem_gold"
+        },
+		{
+        "predicate":{ "damage": 0.038412 },
+        "model":"item/economy/mining/gem_iron"
+        },
+		{
+        "predicate":{ "damage": 0.0390522 },
+        "model":"item/economy/mining/gem_silver"
+        },
+		{
+        "predicate":{ "damage": 0.0396924 },
+        "model":"item/economy/mining/gem_cobalt"
+        },
+		{
+        "predicate":{ "damage": 0.0403326 },
+        "model":"item/economy/mining/gem_kander"
+        },
+		{
+        "predicate":{ "damage": 0.0409728 },
+        "model":"item/economy/mining/gem_diamond"
+        },		
+		{
+        "predicate":{ "damage": 0.041613 },
+        "model":"item/economy/mining/gem_molten"
+        },
+		{
+        "predicate":{ "damage": 0.0422532 },
+        "model":"item/economy/mining/gem_void"
+        },
+		{
+        "predicate":{ "damage": 0.0428934 },
+        "model":"item/economy/mining/gem_dernic"
+        },
+		{
+        "predicate":{ "damage": 0.0435336 },
+        "model":"item/economy/mining/gem_sandstone"
+        },
+		{
+        "predicate":{ "damage": 0.0441738 },
+        "model":"item/economy/meals/generic_item"
+        },
+		{
+        "predicate":{ "damage": 0.044814 },
+        "model":"item/economy/meals/spicy"
+        },
+		{
+        "predicate":{ "damage": 0.0454542 },
+        "model":"item/economy/meals/salad"
+        },
+		{
+        "predicate":{ "damage": 0.0460944 },
+        "model":"item/economy/meals/soup"
+        },
+		{
+        "predicate":{ "damage": 0.0467346 },
+        "model":"item/economy/meals/steamed"
+        },
+		{
+        "predicate":{ "damage": 0.0473748 },
+        "model":"item/economy/meals/fried"
+        },
+		{
+        "predicate":{ "damage": 0.048015 },
+        "model":"item/economy/meals/generic_model"
+        },
+		{
+        "predicate":{ "damage": 0.0486552 },
+        "model":"item/economy/fishing/rods/wooden"
+        },
+		{
+        "predicate":{ "damage": 0.0492954 },
+        "model":"item/economy/fishing/rods/stone"
+        },
+		{
+        "predicate":{ "damage": 0.0499356 },
+        "model":"item/economy/fishing/rods/iron"
+        },
+		{
+        "predicate":{ "damage": 0.0505758 },
+        "model":"item/economy/fishing/rods/gold"
+        },
+		{
+        "predicate":{ "damage": 0.051216 },
+        "model":"item/economy/fishing/rods/diamond"
+        },
+		{
+        "predicate":{ "damage": 0.0518562 },
+        "model":"item/economy/compass/gather_crops"
+        },
+		{
+        "predicate":{ "damage": 0.0524964 },
+        "model":"item/economy/compass/gather_fish"
+        },
+		{
+        "predicate":{ "damage": 0.0531366 },
+        "model":"item/economy/compass/gather_mine"
+        },
+		{
+        "predicate":{ "damage": 0.0537768 },
+        "model":"item/economy/compass/gather_wood"
+        },
+		{
+        "predicate":{ "damage": 0.054417 },
+        "model":"item/economy/compass/craft_weapon"
+        },
+		{
+        "predicate":{ "damage": 0.0550572 },
+        "model":"item/economy/compass/craft_cook"
+        },
+		{
+        "predicate":{ "damage": 0.0556974 },
+        "model":"item/economy/compass/craft_jewelry"
+        },
+		{
+        "predicate":{ "damage": 0.0563376 },
+        "model":"item/economy/compass/craft_wood"
+        },
+		{
+        "predicate":{ "damage": 0.0569778 },
+        "model":"item/economy/compass/craft_armor"
+        },
+		{
+        "predicate":{ "damage": 0.057618 },
+        "model":"item/economy/compass/craft_alchemy"
+        },
+		{
+        "predicate":{ "damage": 0.0582582 },
+        "model":"item/economy/compass/craft_tailor"
+        },
+		{
+        "predicate":{ "damage": 0.0588984 },
+        "model":"item/economy/compass/craft_scroll"
+        },
+		{
+        "predicate":{ "damage": 0.0595386 },
+        "model":"item/gui/pouch/pouch_empty"
+        },
+		{
+        "predicate":{ "damage": 0.0601788 },
+        "model":"item/gui/pouch/pouch_half"
+        },
+		{
+        "predicate":{ "damage": 0.060819 },
+        "model":"item/gui/pouch/pouch_full"
+        },
+		{
+        "predicate":{ "damage": 0.0614592 },
+        "model":"item/economy/scrap"
+        },
+		{
+        "predicate":{ "damage": 0.0620994 },
+        "model":"item/diamond_axe"
+        },
+		{
+        "predicate":{ "damaged":1 },
+        "model":"item/barrier"
+		}
+   ]
+}

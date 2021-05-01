@@ -1,0 +1,89 @@
+{
+    "parent": "item/wynn/assassin/dagger_basic_wood",
+	"overrides": [
+		{
+        "predicate": { "damage": 0.00420 },
+        "model":"item/wynn/assassin/dagger_basic_gold"
+		},
+		{
+        "predicate": { "damage": 0.00840 },
+        "model":"item/wynn/assassin/dagger_earth_a"
+		},
+		{
+        "predicate": { "damage": 0.01260 },
+        "model":"item/wynn/assassin/dagger_earth_b"
+		},
+		{
+        "predicate": { "damage": 0.01680 },
+        "model":"item/wynn/assassin/dagger_earth_c"
+		},
+		{
+        "predicate": { "damage": 0.02100 },
+        "model":"item/wynn/assassin/dagger_thunder_a"
+		},
+		{
+        "predicate": { "damage": 0.02521 },
+        "model":"item/wynn/assassin/dagger_thunder_b"
+		},
+		{
+        "predicate": { "damage": 0.02941 },
+        "model":"item/wynn/assassin/dagger_thunder_c"
+		},
+		{
+        "predicate": { "damage": 0.03361 },
+        "model":"item/wynn/assassin/dagger_fire_a"
+		},
+		{
+        "predicate": { "damage": 0.03781 },
+        "model":"item/wynn/assassin/dagger_fire_b"
+		},
+		{
+        "predicate": { "damage": 0.04201 },
+        "model":"item/wynn/assassin/dagger_fire_c"
+		},
+		{
+        "predicate": { "damage": 0.04621 },
+        "model":"item/wynn/assassin/dagger_air_a"
+		},
+		{
+        "predicate": { "damage": 0.05042 },
+        "model":"item/wynn/assassin/dagger_air_b"
+		},
+		{
+        "predicate": { "damage": 0.05462 },
+        "model":"item/wynn/assassin/dagger_air_c"
+		},
+		{
+        "predicate": { "damage": 0.05882 },
+        "model":"item/wynn/assassin/dagger_water_a"
+		},
+		{
+        "predicate": { "damage": 0.06302 },
+        "model":"item/wynn/assassin/dagger_water_b"
+		},
+		{
+        "predicate": { "damage": 0.06722 },
+        "model":"item/wynn/assassin/dagger_water_c"
+		},
+		{
+        "predicate": { "damage": 0.07142 },
+        "model":"item/wynn/assassin/dagger_multi_a"
+		},
+		{
+        "predicate": { "damage": 0.07563 },
+        "model":"item/wynn/assassin/dagger_multi_b"
+		},
+		{
+        "predicate": { "damage": 0.07983 },
+        "model":"item/wynn/assassin/dagger_multi_c"
+		},
+		{
+        "predicate": { "damage": 0.08403 },
+        "model":"item/wynn/assassin/dagger_basic_wood"
+		},
+		{
+        "predicate": { "damaged": 1 },
+        "model":"item/barrier"
+		}
+	]
+}

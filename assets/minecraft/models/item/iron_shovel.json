@@ -1,0 +1,89 @@
+{
+    "parent": "item/wynn/warrior/spear_basic_wood",
+	"overrides": [
+		{
+        "predicate": { "damage": 0.004 },
+        "model":"item/wynn/warrior/spear_basic_gold"
+		},
+		{
+        "predicate": { "damage": 0.008 },
+        "model":"item/wynn/warrior/spear_earth_a"
+		},
+		{
+        "predicate": { "damage": 0.012 },
+        "model":"item/wynn/warrior/spear_earth_b"
+		},
+		{
+        "predicate": { "damage": 0.016 },
+        "model":"item/wynn/warrior/spear_earth_c"
+		},
+		{
+        "predicate": { "damage": 0.020 },
+        "model":"item/wynn/warrior/spear_thunder_a"
+		},
+		{
+        "predicate": { "damage": 0.024 },
+        "model":"item/wynn/warrior/spear_thunder_b"
+		},
+		{
+        "predicate": { "damage": 0.028 },
+        "model":"item/wynn/warrior/spear_thunder_c"
+		},
+		{
+        "predicate": { "damage": 0.032 },
+        "model":"item/wynn/warrior/spear_fire_a"
+		},
+		{
+        "predicate": { "damage": 0.036 },
+        "model":"item/wynn/warrior/spear_fire_b"
+		},
+		{
+        "predicate": { "damage": 0.040 },
+        "model":"item/wynn/warrior/spear_fire_c"
+		},
+		{
+        "predicate": { "damage": 0.044 },
+        "model":"item/wynn/warrior/spear_air_a"
+		},
+		{
+        "predicate": { "damage": 0.048 },
+        "model":"item/wynn/warrior/spear_air_b"
+		},
+		{
+        "predicate": { "damage": 0.052 },
+        "model":"item/wynn/warrior/spear_air_c"
+		},
+		{
+        "predicate": { "damage": 0.056 },
+        "model":"item/wynn/warrior/spear_water_a"
+		},
+		{
+        "predicate": { "damage": 0.060 },
+        "model":"item/wynn/warrior/spear_water_b"
+		},
+		{
+        "predicate": { "damage": 0.064 },
+        "model":"item/wynn/warrior/spear_water_c"
+		},
+		{
+        "predicate": { "damage": 0.068 },
+        "model":"item/wynn/warrior/spear_multi_a"
+		},
+		{
+        "predicate": { "damage": 0.072 },
+        "model":"item/wynn/warrior/spear_multi_b"
+		},
+		{
+        "predicate": { "damage": 0.076 },
+        "model":"item/wynn/warrior/spear_multi_c"
+		},
+		{
+        "predicate": { "damage": 0.080 },
+        "model":"item/iron_shovel"
+		},
+		{
+        "predicate": { "damaged": 1 },
+        "model":"item/barrier"
+		}
+	]
+}

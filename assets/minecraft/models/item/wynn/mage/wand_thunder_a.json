@@ -1,0 +1,105 @@
+{
+	"credit": "Made by zeldahuman with Blockbench - https://blockbench.net",
+	"ambientocclusion": false,
+	"textures": {
+		"wand": "wynn/weapons/mage/thunder_tier_a_b"
+	},
+	"elements": [
+		{
+			"name": "gem",
+			"from": [7, 16, 7],
+			"to": [9, 18, 9],
+			"faces": {
+				"north": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"east": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"south": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"west": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"up": {"uv": [12, 4, 14, 6], "texture": "#wand"}
+			}
+		},
+		{
+			"from": [7, 9, 7],
+			"to": [9, 14, 9],
+			"faces": {
+				"north": {"uv": [10, 11, 12, 16], "texture": "#wand"},
+				"east": {"uv": [10, 11, 12, 16], "texture": "#wand"},
+				"south": {"uv": [10, 11, 12, 16], "texture": "#wand"},
+				"west": {"uv": [10, 11, 12, 16], "texture": "#wand"}
+			}
+		},
+		{
+			"name": "handle",
+			"from": [7, -7, 7],
+			"to": [9, 9, 9],
+			"faces": {
+				"north": {"uv": [10, 0, 12, 16], "texture": "#wand"},
+				"east": {"uv": [10, 0, 12, 16], "texture": "#wand"},
+				"south": {"uv": [10, 0, 12, 16], "texture": "#wand"},
+				"west": {"uv": [10, 0, 12, 16], "texture": "#wand"},
+				"down": {"uv": [13, 9, 15, 11], "texture": "#wand"}
+			}
+		},
+		{
+			"name": "gem",
+			"from": [7, -9, 7],
+			"to": [9, -7, 9],
+			"faces": {
+				"north": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"east": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"south": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"west": {"uv": [14, 0, 16, 2], "texture": "#wand"},
+				"down": {"uv": [14, 4, 16, 6], "texture": "#wand"}
+			}
+		},
+		{
+			"name": "bracer",
+			"from": [6.5, 14, 6.5],
+			"to": [9.5, 16, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14.5, 22, 14.5]},
+			"faces": {
+				"north": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"east": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"south": {"uv": [16, 2, 13, 4], "texture": "#wand"},
+				"west": {"uv": [13, 2, 16, 4], "texture": "#wand"},
+				"up": {"uv": [13, 6, 16, 9], "texture": "#wand"},
+				"down": {"uv": [13, 9, 16, 12], "texture": "#wand"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [10, 0, 0],
+			"translation": [-0.5, 5, 2.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [10, 0, 0],
+			"translation": [-0.5, 5, 2.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-5, 0, 0],
+			"translation": [2, 4, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-5, 0, 0],
+			"translation": [2, 4, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"rotation": [45, 45, 0],
+			"translation": [0, 5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [-20, 160, 30],
+			"translation": [0.5, 2, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"translation": [0, -0.75, -1],
+			"scale": [0.65, 0.65, 0.65]
+		}
+	}
+}

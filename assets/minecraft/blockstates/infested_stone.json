@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/variants/dark_stone", "weight": 6 },
+			{ "model": "block/variants/dark_stone_0", "weight": 6 },
+			{ "model": "block/variants/dark_stone_1", "weight": 12 }
+			]
+    }
+}

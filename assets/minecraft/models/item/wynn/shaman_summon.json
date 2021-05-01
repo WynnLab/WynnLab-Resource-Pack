@@ -1,0 +1,6 @@
+{
+    "parent": "block/totems/shaman_summon",
+    "textures": {
+        "particle": "block/stone"
+    }
+}

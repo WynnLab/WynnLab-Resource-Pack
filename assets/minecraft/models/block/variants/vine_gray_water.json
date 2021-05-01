@@ -1,0 +1,19 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "wynn/grayscale/water",
+        "water": "wynn/grayscale/water"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [16,14,16],
+            "faces": {
+                "up": {
+                    "uv": [0,0,16,16],
+                    "texture": "#water"
+                }
+            }
+        }
+    ]
+}

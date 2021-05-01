@@ -1,0 +1,18 @@
+{
+	"parent": "item/gui/3x3",
+	"textures": {
+		"layer0": "wynn/gui/economy/compass_skill"
+	},
+	"display": {
+		"gui": {
+			"rotation": [0, 0, 0],
+			"translation": [36, -20, -50 ],
+			"scale": [4, 4, 0]
+		},
+		"fixed": {
+			"scale": [2, 2, 2],
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, 1]
+		}
+	}
+}

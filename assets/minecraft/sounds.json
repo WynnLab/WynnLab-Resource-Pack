@@ -1,0 +1,25 @@
+{
+	"blank": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "blank",
+				"stream": true
+			}
+		]
+	},
+	"block.tripwire.click_on": {
+		"category": "block",
+		"replace": true,
+		"sounds": [
+			"blank"
+		]
+	},
+	"block.tripwire.click_off": {
+		"category": "block",
+		"replace": true,
+		"sounds": [
+			"blank"
+		]
+	}
+}

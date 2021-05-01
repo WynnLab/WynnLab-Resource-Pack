@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "texture": "#layer0"
+    },
+	"display": {
+	    "gui": {
+	        "rotation": [ 0, 0, 0 ],
+	        "translation": [ 0, 0, 0 ],
+	        "scale": [ 2, 2, 2 ]
+	    },
+		"fixed": {
+			"scale": [2, 2, 2 ],
+			"rotation": [0, 180, 0 ],
+			"translation": [0, 0, 1 ]
+		}
+	}
+}
