@@ -14,7 +14,7 @@ Feel free to propose changes to textures we made. Not the Wynncraft textures.
 For further information, join our [Discord server](https://www.wynnlab.tk/discord).
 
 ## Footnotes
-This repository contains a license. Because the Wynncraft resource pack doesn't have a builtin license, we can't include it. 
+This repository contains a license for this branch it's the same as for java-1.16. Because the Wynncraft resource pack doesn't have a builtin license, we can't include it. 
 As stated above, Wynncraft has copyright over the files in the first commit.
 
 This resource pack is used for the WynnLab project that aims to port Wynncraft to 1.16 (and beyond). Feel free to take a look at our other repositories.
