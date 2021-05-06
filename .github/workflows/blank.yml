@@ -27,4 +27,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Test
-        run: echo $GITHUB_WORKSPACE
+        run: |
+          echo $GITHUB_WORKSPACE
+          zip -r $GITHUB_WORKSPACE/pack.zip $GITHUB_WORKSPACE
